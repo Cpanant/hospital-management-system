@@ -14,7 +14,6 @@ https://mango-forest-0fa210610.1.azurestaticapps.net/contact.html
 ![2022-04-19 (8)](https://user-images.githubusercontent.com/96227238/163949980-7432d50e-f134-4b67-be0a-5493cce0a5a8.png)
 ![2022-04-19 (9)](https://user-images.githubusercontent.com/96227238/163950002-1d7d6d46-5d48-4499-aa62-dbab4d6f4444.png)
 # About us screenshot images:
-![2022-04-19 (10)](https://user-images.githubusercontent.com/96227238/163950402-abbcc0a8-e498-4e15-975f-3bb581f78468.png)
 ![2022-04-19 (11)](https://user-images.githubusercontent.com/96227238/163950525-aafb037c-8e6a-415a-bb9a-f9663ea18fcf.png)
 # Appointment screenshot images:
 ![2022-04-19 (12)](https://user-images.githubusercontent.com/96227238/163950996-27769471-cb4f-4841-ba34-42631224620e.png)
