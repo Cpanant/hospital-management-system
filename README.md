@@ -6,7 +6,7 @@ Features: Patient Information, Room Availability, Staff and Operating Room Sched
 Tech Stack: HTML, CSS, JavaScript, BootStrap.
 
 Hosted url: 
-https://blue-island-0d3615110.1.azurestaticapps.net/
+https://agreeable-tree-0e06d7d10.1.azurestaticapps.net
 
 # Home screenshot images:
 ![2022-04-19 (6)](https://user-images.githubusercontent.com/96227238/163949951-5684d829-1a5d-4003-af47-ca835ed4cbdd.png)
