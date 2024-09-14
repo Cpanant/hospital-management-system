@@ -21,8 +21,6 @@ https://icy-mushroom-012608210.1.azurestaticapps.net
 ![2022-04-19 (13)](https://user-images.githubusercontent.com/96227238/163951457-da176206-f8da-4e38-83ee-a310ff203d83.png)
 # contect us screenshot images:
 ![2022-04-19 (14)](https://user-images.githubusercontent.com/96227238/163953767-4fdb9a3c-c695-4aed-ab34-dd9790b382aa.png)
-![2022-04-19 (15)](https://user-images.githubusercontent.com/96227238/163953785-69476ec4-6c3f-4ca1-8585-c6452b027308.png)
-
 
 ENGINEERING STUDENTS
 Thank You Future Ready Talent for the internship opportunity.
